@@ -251,6 +251,7 @@ body {
 
 .menu-icon.selected {
   background-color: lightgray;
+  color: blue;
 }
 
 .input-cell.top-cell-selected {
